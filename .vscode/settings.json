@@ -1,0 +1,8 @@
+{
+  "chat.promptFiles": true,
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "file": "general-code-gen.instructions.md"
+    }
+  ]
+}
